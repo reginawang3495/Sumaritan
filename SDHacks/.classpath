@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/api-common-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/error_prone_annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/gax-1.32.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/gax-grpc-1.32.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-auth-library-credentials-0.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-auth-library-oauth2-http-0.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-cloud-core-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-cloud-core-grpc-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-cloud-vision-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-http-client-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/google-http-client-jackson2-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-auth-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-context-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-core-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-netty-shaded-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-protobuf-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-protobuf-lite-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/grpc-stub-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/jackson-core-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/joda-time-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/opencensus-api-0.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/opencensus-contrib-grpc-metrics-0.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/protobuf-java-util-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-cloud-vision-v1-1.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-cloud-vision-v1p1beta1-0.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-cloud-vision-v1p2beta1-1.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-cloud-vision-v1p3beta1-0.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-common-protos-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/proto-google-iam-v1-0.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/api-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/auto-value-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/gax-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-api-client-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-api-services-storage-v1-rev100-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-auth-library-credentials-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-auth-library-oauth2-http-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-cloud-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-cloud-core-http-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-cloud-storage-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-http-client-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-http-client-appengine-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-http-client-jackson-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-http-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/google-oauth-client-1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/joda-time-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/protobuf-java-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/protobuf-java-util-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/proto-google-common-protos-0.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/proto-google-iam-v1-0.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/google-api-services-vision-v1-rev22-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/google-http-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/google-http-client-jackson2-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/google-oauth-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/guava-jdk5-17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-android-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-android-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-android-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flandmark-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/flycapture-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libdc1394-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/libfreenect-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/librealsense.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/librealsense-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/librealsense-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/librealsense-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-android-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/videoinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/videoinput-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/videoinput-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/Client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/EmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/FreeTTSEmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/FreeTTSHelloWorld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/HelloWorld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/JTime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/MixedVoices.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/Player.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/Server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/WebStartClock.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/jsr113.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/org.jvoicexml.jsapi2.freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/org.jvoicexml.jsapi2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/org.jvoicexml.jsapi2.mac.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/org.jvoicexml.jsapi2.sapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javaxspeech/org.jvoicexml.jsapi2.sphinx4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/FrettsBin/lib/mbrola.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-client-5.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-de-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-en-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-it-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-ru-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-sv-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-te-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-tr-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-server-5.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/voice-cmu-slt-hsmm-5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
