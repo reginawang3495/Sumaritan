@@ -19,7 +19,14 @@ public class ApplicationMaster {
 		if(status.equals("2"))
 			text = TextToSummary.main(text);
 		System.out.println(text);
-		TextToSpeech.main(text);
+		TextToFrame.main(text);
+		while(!TextToFrame.ready){
+		try{
+			Thread.sleep(100);
+		}
+		catch(Exception e){}}
+		GmailSendFrame.main(text);
+
 	}
 	public static void toText(){
 

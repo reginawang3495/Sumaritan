@@ -43,8 +43,8 @@ public class TextToSummary {
 			securedResource.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
 		//	securedResource.setHeader("Content-type", "application/json");
 		//	securedResource.setHeader("Accept", "application/json");
-			securedResource.setHeader("X-AYLIEN-TextAPI-Application-Key", "13815f6458e4609f8a34b505116d49f0");
-			securedResource.setHeader("X-AYLIEN-TextAPI-Application-ID", "fb4ec7fb");
+			securedResource.setHeader("X-AYLIEN-TextAPI-Application-Key", "app-key (13815f...)");
+			securedResource.setHeader("X-AYLIEN-TextAPI-Application-ID", "app-id");
 
 
 			CloseableHttpResponse httpResponse = client

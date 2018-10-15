@@ -16,6 +16,8 @@ import java.util.stream.StreamSupport;
 import javax.sound.sampled.AudioFileFormat;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.LineUnavailableException;
+import javax.sound.sampled.UnsupportedAudioFileException;
 
 import marytts.LocalMaryInterface;
 import marytts.MaryInterface;
@@ -56,7 +58,20 @@ public class TextToSpeech {
 	//	tts.getMarytts().setAudioEffects(volumeEffect.getFullEffectAsString());// + "+" + stadiumEffect.getFullEffectAsString());
 		tts.speak(args, 2.0f, false, true);
 	}
-	
+	public static void stopTalking(){
+		try {
+			SimpleAudioPlayer.get().stop();
+		} catch (UnsupportedAudioFileException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (LineUnavailableException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 	/**
 	 * Transform text to speech
 	 * 
@@ -75,8 +90,10 @@ public class TextToSpeech {
 		
 		// Stop the previous player
 		stopSpeaking();
-		
+		if(SimpleAudioPlayer.get().s==false){
+
 		try (AudioInputStream audio = marytts.generateAudio(text)) {
+			if(SimpleAudioPlayer.get().s==false){
 			int W = AudioSystem.write(audio, AudioFileFormat.Type.WAVE, new File("C:\\Users\\rrreg\\Desktop\\CamHacks\\SDHacks\\audio.mp3"));
 
 				    byte[] buffer = new byte[audio.available()];
@@ -85,6 +102,7 @@ public class TextToSpeech {
 				    OutputStream outStream = new FileOutputStream(targetFile);
 				    outStream.write(buffer);
 				    SimpleAudioPlayer.get().setAudio("C:\\Users\\rrreg\\Desktop\\CamHacks\\SDHacks\\audio.mp3");
+			}
 			// Player is a thread(threads can only run one time) so it can be
 			// used has to be initiated every time\
 //				    
@@ -107,6 +125,7 @@ public class TextToSpeech {
 		} catch (IOException ex) {
 			Logger.getLogger(getClass().getName()).log(Level.WARNING, "IO Exception", ex);
 		} 
+		}
 	}
 	
 	/**

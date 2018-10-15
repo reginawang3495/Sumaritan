@@ -18,10 +18,11 @@ package CamHacks;
 	  static SimpleAudioPlayer sap;
 	    // to store current position 
 	    Long currentFrame; 
-	    Clip clip; 
+	    static Clip clip; 
 	      
 	    // current status of clip 
 	    String status; 
+	    static boolean s;
 	      
 	    AudioInputStream audioInputStream; 
 	    static String filePath; 
@@ -42,15 +43,15 @@ package CamHacks;
 	    		filePath = file;
 		        audioInputStream =  
 		                AudioSystem.getAudioInputStream(new File(file)); 
-		          
+		          s = true;
 		        // create clip reference 
-		        clip = AudioSystem.getClip(); 
+		          if(clip == null)
+		        	  clip = AudioSystem.getClip(); 
 		          
 		        // open audioInputStream to the clip 
 		        clip.open(audioInputStream); 
 		          clip.start();
-		         clip = AudioSystem.getClip();
-		        clip.open(audioInputStream); 
+		     
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
@@ -64,7 +65,7 @@ package CamHacks;
 	        throws UnsupportedAudioFileException, 
 	        IOException, LineUnavailableException  
 	    { 
-
+	    	s = false;
 	    } 
 	  
 	    public static void main(String[] args)  
@@ -77,7 +78,8 @@ package CamHacks;
 	              
 	            audioPlayer.play(); 
 	            Scanner sc = new Scanner(System.in); 
-	              
+	            audioPlayer.play(); 
+
 	            while (true) 
 	            { 
 	                System.out.println("1. pause"); 
@@ -190,6 +192,7 @@ package CamHacks;
 	        currentFrame = 0L; 
 	        clip.stop(); 
 	        clip.close(); 
+
 	    } 
 	      
 	    // Method to jump over a specific part 

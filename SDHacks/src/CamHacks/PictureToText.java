@@ -104,7 +104,7 @@ public class PictureToText {
 	public static String post(String data) {
 		try {
 			CloseableHttpClient client = HttpClientBuilder.create().build();
-			String url = "https://vision.googleapis.com/v1/images:annotate?key=AIzaSyChCeK5v6rjUM7qlReCW8wf9l1pmvFagv8";
+			String url = "https://vision.googleapis.com/v1/images:annotate?key={the_key (starts w AIzaSy...)}";
 			HttpPost securedResource = new HttpPost(url);
 			securedResource.setEntity(new StringEntity(data));
 			// securedResource.addHeader("Accept", "application/json");

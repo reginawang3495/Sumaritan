@@ -26,7 +26,6 @@
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/guava-20.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/httpclient-4.5.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/httpcore-4.4.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/jackson-core-2.9.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/joda-time-2.9.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/jsr305-3.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/googlecloudvision/opencensus-api-0.12.3.jar"/>
@@ -61,7 +60,6 @@
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/guava-19.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/httpclient-4.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/httpcore-4.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/jackson-core-2.1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/jackson-core-asl-1.9.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/joda-time-2.9.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/cloud storage/json-20160810.jar"/>
@@ -81,7 +79,6 @@
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/guava-jdk5-17.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/httpclient-4.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/httpcore-4.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/jackson-core-2.1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/New folder/jsr305-1.3.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/commons-io-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javacv-bin/artoolkitplus.jar"/>
@@ -199,5 +196,36 @@
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-lang-tr-5.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/marytts-server-5.0-jar-with-dependencies.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/marytts-5.0/lib/voice-cmu-slt-hsmm-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/jackson-core-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-oauth-client-servlet-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-oauth-client-jetty-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-oauth-client-java6-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-oauth-client-appengine-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-oauth-client-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-jdo-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-jackson2-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-gson-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-appengine-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-android-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-http-client-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-servlet-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-java6-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-jackson2-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-gson-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-appengine-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-android-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/libs/google-api-client-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/google-api-services-gmail-v1-rev93-1.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/google-api-services-gmail-v1-rev93-1.24.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/gmail/google-api-services-gmail-v1-rev93-1.24.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rrreg/Downloads/jars/commons-configuration-1.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
