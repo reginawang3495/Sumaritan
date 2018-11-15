@@ -9,7 +9,8 @@ Sumaritan is a software that automatically summarizes notes or textbooks with ca
 3. API Keys for Aylien and Google Cloud. 
 
 ## To run the demo, 
-1. Edit Sumaritan/Demo/Sumaritan.jar and edit the files by adding the API Keys
+1. Edit Sumaritan/Demo/Sumaritan.jar 
+      Move /Demo/Jars into /Demo/Sumaritan.jar
 2. Move to right folder by running
    cd /path/to/Sumaritan/Demo 
 3. Run the jar file, by running
