@@ -15,6 +15,8 @@ Sumaritan is a software that automatically summarizes notes or textbooks with ca
    cd /path/to/Sumaritan/Demo 
 3. Run the jar file, by running
    java -jar Sumaritan.jar
+   
+Since the demo does not have API keys for security purposes, please follow the steps below to fully use the application
 
 ## To edit and run the application without the demo, 
 1. Add API Keys and Client Ids 
