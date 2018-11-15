@@ -1,4 +1,5 @@
 # Sumaritan
+This project was created by Angela Wang, Alisha Sehgal, Emily Ferguson, and Regina Wang at a 36 hour hackathon in University of California, San Diego in October 2018. 
 
 ## What it does:
 Sumaritan is a software that automatically summarizes notes or textbooks with camera input for students and allows the visually impaired to function normally in their daily lives by reading aloud important signs.
